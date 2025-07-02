@@ -6,11 +6,11 @@ Le projet met l’accent sur la **sensibilisation** et l’**information** autou
 
 > **ViteButNotTooMuch est un projet d’école, donc un site fictif, conçu dans le cadre d’un exercice pédagogique.**
 
-🔗 **Site en ligne** : [vitebutnottmuch.com](https://vitebutnottmuch.com)
+🔗 **Site en ligne** : [vitebutnottmuch.com](https://vitebutnottoomuch.com)
 
 ---
 
-**En ce 02/07/25, nous sommes premiers sur le mot-clé "vitebutnottmuch".**
+**En ce 02/07/25, nous sommes premiers sur le mot-clé "vitebutnottoomuch".**
 ## 🚦 Présentation
 
 Ce projet vise à :
