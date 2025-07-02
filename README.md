@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚗 ViteButNotTooMuch
 
-## Getting Started
+**ViteButNotTooMuch** est un site dédié à la **sécurité routière**, développé avec **Next.js** pour offrir une expérience utilisateur rapide, moderne et accessible.
 
-First, run the development server:
+Le projet met l’accent sur la **sensibilisation** et l’**information** autour des enjeux de la sécurité sur la route.
+
+> **ViteButNotTooMuch est un projet d’école, donc un site fictif, conçu dans le cadre d’un exercice pédagogique.**
+
+🔗 **Site en ligne** : [vitebutnottmuch.com](https://vitebutnottmuch.com)
+
+---
+
+**En ce 02/07/25, nous sommes premiers sur le mot-clé "vitebutnottmuch".**
+## 🚦 Présentation
+
+Ce projet vise à :
+
+- 🧠 Sensibiliser le public aux **risques routiers**
+- 📚 Proposer des **ressources pédagogiques** et **interactives**
+- ⚡ Offrir une interface **moderne**, **rapide** et **responsive**
+
+---
+
+## 🛠️ Stack technique
+
+- **Framework principal** : [Next.js](https://nextjs.org/) (React)
+- **Langage** : TypeScript
+- **Polices** : Utilisation de [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) pour le chargement automatique et optimisé de la police **Geist**
+- **Déploiement** : [Vercel](https://vercel.com/)
+- **Gestion des dépendances** : `npm`, `yarn`, `pnpm` ou `bun`
+
+---
+
+## 🚀 Démarrage rapide
 
 ```bash
+# Installez les dépendances
+npm install
+# ou
+yarn
+# ou
+pnpm install
+# ou
+bun install
+
+# Démarrez le serveur de développement
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Accédez ensuite au site local : [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Structure du projet
 
-## Learn More
+```txt
+app/page.tsx     # Page principale du site
+public/          # Fichiers statiques (images, favicon, etc.)
+styles/          # Feuilles de style globales et modules CSS
+```
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✏️ Contribution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Les contributions sont **les bienvenues** !
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Forkez le dépôt
+2. Créez une branche dédiée
+3. Proposez une **Pull Request**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📚 Ressources utiles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Documentation officielle de Next.js](https://nextjs.org/docs)
+- [Tutoriel interactif Next.js](https://nextjs.org/learn)
+- [Déploiement avec Vercel](https://vercel.com/docs)
+
+---
+
+## 📬 Contact
+
+Pour toute **question** ou **suggestion**, n’hésitez pas à **ouvrir une issue** sur le dépôt GitHub du projet.
